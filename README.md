@@ -1,2 +1,2 @@
 # Calculator
-Integer calculator. can use +,-,*,/,()
+Simple Integer Calculator. can use +,-,*,/,()
