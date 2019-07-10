@@ -8,3 +8,6 @@ Simple Integer Calculator. can use +,-,*,/,()
   - Press Enterkey.
 - 정답이 출력된다.(만약 정답이 소수일 경우, 정수로 변환되어 출력된다.)
   - The answer will be printed out.(If the correct answer is a decimal number, it is converted to an integer and output.)
+![Alt text](/calculator_usage.PNG "Optional title")
+  
+  calculator_usage.PNG
